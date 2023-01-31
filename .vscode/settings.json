@@ -1,0 +1,28 @@
+{
+    "dartImport.fixOnSave": true,
+    "dart.flutterSdkPaths": [
+        "/Users/usr/fvm/versions"
+    ],
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    // Remove .fvm files from search
+    "search.exclude": {
+        "**/.fvm": true
+    },
+    // Remove from file watching
+    "files.watcherExclude": {
+        "**/.fvm": true
+    },
+    "cSpell.words": [
+        "Nube",
+        "dartz",
+        "mqtt",
+        "rxdart",
+        "serializable"
+    ],
+    "files.exclude": {
+        "**/*.config.dart": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true,
+        "**/*.gr.dart": true,
+    },
+}
